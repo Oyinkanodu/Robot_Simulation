@@ -1,2 +1,2 @@
 # Robot Simulation
-developed a 2D Robot simulation using Java
+developed a simple 2D Robot simulation using Java
